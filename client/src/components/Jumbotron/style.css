@@ -1,0 +1,16 @@
+.jumbotron {
+    
+    background-image: url("../../utils/images/background.jpg");
+    background-size: cover;
+    height: 300px;
+    background-position: center;
+    text-align: center;
+}
+
+.myText {
+    color: white;
+    font-weight: bold;
+    position: relative;
+    transform: translateY(20px);
+    text-shadow: 2px 2px black;
+}
